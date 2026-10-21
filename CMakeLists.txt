@@ -3,4 +3,4 @@ project(desafio_arena_ufu_facom)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(exercicio1 variaveis-expressoes/exercicio_1.cpp)
+add_executable(exercicio-variaveis1 variaveis-expressoes/exercicio_1.cpp)
