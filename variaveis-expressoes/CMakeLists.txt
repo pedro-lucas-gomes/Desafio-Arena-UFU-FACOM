@@ -5,3 +5,4 @@ set(CMAKE_CXX_STANDARD 20)
 
 add_executable(exercicio-variaveis1 exercicio_1.cpp)
 add_executable(exercicio-variaveis2 exercicio_2.cpp)
+add_executable(exercicio-variaveis3 exercicio_3.cpp)
