@@ -11,7 +11,7 @@ int main() {
     cin >> num3;
     soma = num1 + num2 + num3;
     cout << "O Resultado da soma eh: " << soma;
-    cin >> soma;
+
 
 
 
